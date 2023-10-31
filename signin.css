@@ -8,6 +8,8 @@
 .product-box {
     background-color: #ffffff;
     box-shadow: 0px 4px 8px rgba(3, 83, 12, 0.849);
+    height: 250px;
+    width: 300px;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
@@ -22,7 +24,8 @@
 
 .product-image img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: 250px;
     display: block;
     margin: 0 auto;
 }
